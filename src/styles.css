@@ -1,4 +1,4 @@
-body {
+/* body {
     background-color: darkgoldenrod;
     background: url("./assets/house.jpg");
 }
@@ -13,4 +13,7 @@ img {
     height: 100%;
     object-fit: cover;
     object-position: center;
+} */
+body {
+    background-color: aliceblue;
 }
